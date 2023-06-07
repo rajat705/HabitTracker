@@ -11,3 +11,6 @@ These are the 3 statuses of a habit:
 Done - Mark the habit as done for a day
 Not done - Mark the habit as not done for a day
 None - User did not take any action on a habit for a day
+
+## Host Url
+https://trackyourhabit.netlify.app

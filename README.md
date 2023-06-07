@@ -12,5 +12,10 @@ Done - Mark the habit as done for a day
 Not done - Mark the habit as not done for a day
 None - User did not take any action on a habit for a day
 
-## Host Url
+### View the app (Hosted on Netlify):
 https://trackyourhabit.netlify.app
+
+### Tools:
+React
+
+#Thanks...!
